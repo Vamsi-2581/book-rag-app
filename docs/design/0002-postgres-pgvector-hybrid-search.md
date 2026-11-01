@@ -80,4 +80,4 @@ The experiment should compare answer quality, search latency at a defined query 
 - [pgvector README](https://github.com/pgvector/pgvector), especially HNSW, IVFFlat and filtering
 - [PostgreSQL full-text search](https://www.postgresql.org/docs/current/textsearch.html)
 - [Malkov and Yashunin, HNSW paper](https://arxiv.org/abs/1603.09320)
-- [Cormack, Clarke and Buettcher, Reciprocal Rank Fusion (SIGIR 2009)](https://plg.uwaterloo.ca/~gvcormac/cormack.sigir09-rrf.pdf)
+- [Cormack, Clarke and Buettcher, Reciprocal Rank Fusion (SIGIR 2009)](https://doi.org/10.1145/1571941.1572114)
